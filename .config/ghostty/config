@@ -1,0 +1,6 @@
+theme = Rose Pine Moon
+font-family = CommitMono
+
+keybind = ctrl+z=close_surface
+keybind = ctrl+shift+s=new_split:right
+keybind = ctrl+shift+tab=goto_split:right
